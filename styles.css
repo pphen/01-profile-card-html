@@ -1,0 +1,46 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  border: 2px solid slategray;
+  padding: 40px;
+  max-width: 500px;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 40px;
+  color: darkblue;
+}
+
+.role {
+  font-size: 24px;
+  color: slategray;
+}
+
+.bio {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+img {
+  max-width: 150px;
+  width: 100%;
+  border-radius: 50%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 15px 0;
+}
